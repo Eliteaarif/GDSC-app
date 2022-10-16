@@ -3,8 +3,6 @@
 
 It is an open source application to create and manage invoices.
 
-The project is extended from my [Firebase Authentication Tutorial](https://www.youtube.com/watch?v=LHh2_TXBmS8&t=1266s).
-
 ![Alt text](images/easy-invoice-screenshot.jpg?raw=true "Easy Invoice App")
 
 You need `google-services.json` to make this project work.
