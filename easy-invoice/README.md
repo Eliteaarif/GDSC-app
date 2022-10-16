@@ -3,7 +3,8 @@
 
 It is an open source application to create and manage invoices.
 
-![Alt text](images/easy-invoice-screenshot.jpg?raw=true "Easy Invoice App")
+## Link to download invoice app
+https://drive.google.com/file/d/1iufHjb7uiMyWz0xmQxM2hcsTMyKcituc/view?usp=sharing
 
 You need `google-services.json` to make this project work.
 
