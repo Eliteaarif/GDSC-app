@@ -3,7 +3,7 @@
 ## Easy Invoice
 
 - It is an open source application to create and manage invoices.
-- In this application firebase Authentication is used and to store user data firestore is used.
+- In this application firebase Authentication is used to login & signup and to store user data firestore is used.
 
 ## Link to download invoice app
 https://drive.google.com/file/d/1iufHjb7uiMyWz0xmQxM2hcsTMyKcituc/view?usp=sharing
