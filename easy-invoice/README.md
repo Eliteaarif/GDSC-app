@@ -6,7 +6,7 @@ It is an open source application to create and manage invoices.
 ## Link to download invoice app
 https://drive.google.com/file/d/1iufHjb7uiMyWz0xmQxM2hcsTMyKcituc/view?usp=sharing
 
-You need `google-services.json` to make this project work.
+## You need `google-services.json` to make this project work.
 
 ## Follow these steps
 - Go to https://console.firebase.google.com/
